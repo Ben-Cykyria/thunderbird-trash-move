@@ -1,0 +1,17 @@
+{
+  "extensionName": {
+    "message": "Move Trash"
+  },
+  "extensionDescription": {
+    "message": "Moves all Trash and Junk messages (except local) to the local trash folder."
+  },
+  "logStart": {
+    "message": "Moving messages from Trash and Junk..."
+  },
+  "logMoved": {
+    "message": "Message with subject \"{subject}\" has been moved to local trash."
+  },
+  "logNoLocalAccount": {
+    "message": "Local account not found."
+  }
+}

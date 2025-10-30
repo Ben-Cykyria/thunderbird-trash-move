@@ -1,0 +1,17 @@
+{
+  "extensionName": {
+    "message": "Müll verschieben"
+  },
+  "extensionDescription": {
+    "message": "Verschiebt alle Trash- und Junk-Nachrichten (außer lokal) in den lokalen Papierkorb."
+  },
+  "logStart": {
+    "message": "Verschiebe Nachrichten aus Trash und Junk..."
+  },
+  "logMoved": {
+    "message": "Nachricht mit Betreff \"{subject}\" wurde in lokalen Papierkorb verschoben."
+  },
+  "logNoLocalAccount": {
+    "message": "Lokales Konto nicht gefunden."
+  }
+}
